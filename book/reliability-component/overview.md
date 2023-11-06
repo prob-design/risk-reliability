@@ -106,10 +106,11 @@ Overview of non-linear problems (distribution and LSF); explanation of LSF; form
 
 % THIS IS REMOVED FOR 2022-23 SINCE THE SEPARATE PAGES WERE NOT COMPLETED
 
+<!--
 ```{admonition} Exam Information
 :class: tip, dropdown
 You are expected to recognize the role of random variables (e.g., loads and resistances) within the function of random variables for a component and visualize it on a bivariate plot. Component reliability problems will limited to linear functions of normally distributed random variables; although you will *not* be asked to compute reliability.
-```
+``` -->
 
 <!-- ```{admonition} Exam Information
 :class: tip, dropdown

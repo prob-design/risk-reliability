@@ -25,10 +25,11 @@ name: simple-city
 A simple city that we would like to protect against flooding by the river.
 ```
 
+<!--
 ```{admonition} MUDE exam information
 :class: tip, dropdown
 You are not required to memorize all aspects of the flooding example, but should be capable of recognizing how key concepts from other parts of this book can be applied in this context. Note that non-flooding examples from other fields may be used to text concepts on the exam in a similar way.
-```
+``` -->
 
 <!-- ```{admonition} MUDE exam information
 :class: tip, dropdown
