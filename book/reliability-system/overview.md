@@ -122,10 +122,11 @@ which means the correct statement is that dependence quantifies how the "*probab
 
 This page contains a brief introduction to the computation of failure probability for series and parallel systems, and describes the role of dependence. The following section illustrates these concepts with a simple exercise.
 
+<!--
 ```{admonition} MUDE Exam Information
 :class: tip, dropdown
 For the exam, you should be able to recognize and solve simple series and parallel systems, as well as describe the influence that dependence between components may have on the calculated probability of interest. You will not need to draw or evaluate a system more complex than those illustrated on this page.
-```
+``` -->
 % THIS IS REMOVED FOR 2022-23 SINCE THE SEPARATE PAGES WITH SERIES/PARALLEL ILLUSTRATING DEPENDENCE WERE NOT COMPLETED
 <!-- This chapter contains a brief introduction to the computation of failure probability for series and parallel systems, and illustrates the role of dependence. The final section illustrates these concepts with a simple exercise.
 

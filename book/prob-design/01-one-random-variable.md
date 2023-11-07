@@ -74,7 +74,7 @@ $$
 \int_{-\infty}^{+\infty}f(\text{levee failure}|h)\cdot f(h)\: \text{d}h
 $$ -->
 
-<!--> MMMMMM
+<!-- MMMMMM
 ```{admonition} MUDE exam information
 :class: tip, dropdown
 Given a probability requirement and distribution for a random variable of interest, you should be able to find the appropriate design value.
