@@ -5,3 +5,6 @@ logo: images/TUDelft_logo_rgb.png
 sphinx:
   extra_extensions:
     - sphinx-image-inverter
+  
+bibtex_bibfiles: 
+  - _bibliography/references.bib
