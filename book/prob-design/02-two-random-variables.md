@@ -13,7 +13,7 @@ E[X] &= \exp\left(\mu + \frac{\sigma^2}{2}\right) = 100\\
 VAR[X] &= \left( \exp(\sigma^2)-1 \right)\exp(2\mu + \sigma^2)= 400
 \end{align*}
 $$
-See the table in [Summary of parametric distribibutions](summary_dist)
+<!-- RRRRRR See the table in [Summary of parametric distribibutions](summary_dist) -->
 
 For the `lognorm` method in `scipy.stats` we need to provide the parameters shape `s` = $\sigma$, `loc` = 0 and `scale` = $\exp(\mu)$ (see explanation [here](https://mude.citg.tudelft.nl/book/probability/Loc-scale.html)), in this case:
 ```python
