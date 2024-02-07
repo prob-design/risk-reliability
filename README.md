@@ -11,3 +11,15 @@ This book will:
 - include EVA from MUDE
 - include system, component reliability methods
 - be useful :)
+
+## Setup
+
+Using Python venv, created in directory `.venv`.
+
+Note that `requirements.txt` includes a suite of files defined in [this repo](https://gitlab.tudelft.nl/interactivetextbooks-citg/extensions/tud-citg-jb-stack), including the Jupyter stack as well as common numerical libraries (e.g., numpy, scipy).
+
+```
+PATH_TO_YOUR/python -m venv .venv
+source .venv/Scripts/activate
+python -m pip install -r requirements.txt
+```
