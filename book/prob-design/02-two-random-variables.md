@@ -13,16 +13,19 @@ E[X] &= \exp\left(\mu + \frac{\sigma^2}{2}\right) = 100\\
 VAR[X] &= \left( \exp(\sigma^2)-1 \right)\exp(2\mu + \sigma^2)= 400
 \end{align*}
 $$
-The shape, location and scale parameters and usage for the `lognorm` method in `scipy.stats`are:
+<!-- RRRRRR See the table in [Summary of parametric distribibutions](summary_dist) -->
+
+For the `lognorm` method in `scipy.stats` we need to provide the parameters shape `s` = $\sigma$, `loc` = 0 and `scale` = $\exp(\mu)$ (see explanation [here](https://mude.citg.tudelft.nl/book/probability/Loc-scale.html)), in this case:
 ```python
-import scipy.stats as st
+import scipy.stats as stats
 s = 0.198
 loc = 0.000
 scale = 98.058
-q_1 = st.lognorm(s=s, loc=loc, scale=scale)
-q_2 = st.lognorm(s=s, loc=loc, scale=scale)
+q_1 = stats.lognorm(s=s, loc=loc, scale=scale)
+q_2 = stats.lognorm(s=s, loc=loc, scale=scale)
 ```
 ````
+
 ## Discharge from Two Rivers
 
 In this scenario our objective for choosing $h_{dike}$ is still the same, except now we recognize that our location on the river is downstream of a confluence of two smaller rivers. The discharge at the location of our dike is thus the sum of the dicharge from Rivers 1 and 2:
@@ -187,10 +190,10 @@ The 'and' and 'or' approaches (intersection and union) are simple, but really on
 The situation illustrated here is often referred to as a *component reliability* problem, where the 'component' is defined by a function of random variables.
  Although nothing more than a function of random variables,is nothing more than an integration over a specific region of a multivariate probability density function. Often this region describes failure of a component, which we will try to keep below an acceptable level.
 
-<!--```{admonition} MUDE exam information
+<!-- ```{admonition} MUDE exam information
 :class: tip, dropdown
 Given a specific scenario, you should be able to identify the design condition and an appropriate method for calculating a probability of interest (as illustrated here). Functions of random variables are illustrated more thoroughly in the **Component Reliability** chapter.
-```-->
+``` -->
 
 <!-- ```{admonition} MUDE exam information
 :class: tip, dropdown
