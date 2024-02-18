@@ -343,14 +343,6 @@ For a given number of inhabitants and potential fatalities for a dike ring, the 
 
 Several extensions of this model are possible. One can consider to add the economic value of life loss or consider a different distribution of the nationally acceptable societal risk over dike rings with different sizes. 
 
-
-<!-- ````{toggle}
-```{eval-rst}
-.. literalinclude:: ../code/risk_types.py
-   :language: python
-```
-```` -->
-
 ```{figure} ../figures/risk_types_py.svg
 ---
 width: 400

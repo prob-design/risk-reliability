@@ -104,13 +104,6 @@ Although civil engineering projects are typically not associated with financial 
 
 The contribution of costs in a certain year to the net present value depend on the discount rate and the reference year. Costs or benefits closest to the present will have the greatest contribution. {numref}`present-value` below shows the value of $1/(1+r)^t$ for a given year $t$ for different discount rates. The higher the discount rate, the smaller the contribution to the net present value of costs or benefits that are far away from the present. For an infinite time horizon it can be shown that $\sum 1/(1+r)^t \approx 1/r$. This approximation can be used in evaluating engineering projects with a long life time.
 
-````{toggle}
-```{eval-rst}
-.. literalinclude:: ../code/present_value.py
-   :language: python
-```
-````
- 
 ```{figure} ../figures/present_value.svg
 ---
 width: 600
