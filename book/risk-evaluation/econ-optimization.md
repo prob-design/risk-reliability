@@ -40,7 +40,7 @@ $$
 
 ```{figure} ../figures/economic_opt.svg
 ---
-height: 400px
+width: 600
 name: economic_optimum
 ---
 Economic optimization: costs, risks and total costs as a function of the

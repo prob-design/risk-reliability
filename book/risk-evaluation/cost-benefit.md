@@ -111,13 +111,14 @@ The contribution of costs in a certain year to the net present value depend on t
 ```
 ````
  
-```{figure} ../figures/present_value_py.svg
+```{figure} ../figures/present_value.svg
 ---
-width: 400
+width: 600
 name: present-value
 ---
 Normalized present value of a cost or benefit in year $t$ for different discount rates.
 ```
+
 (value_human_life)=
 ## Valuation of Human Life
 
