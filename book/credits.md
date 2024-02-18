@@ -4,11 +4,9 @@
 
 Robert.
 
-### Updates and Citation
+You can refer to this book as:
 
-The book is a work in progress, and while it will certainly be updated for the second year of MUDE, it will also be used in Q4 as part of the Hydraulic and Offshore Structures track (a unit on probabilistic design) and an elective unit on Flood Risk Analysis in Q1 of the 2023-24 academic year (open to all students at Delft). If you must cite this book, we suggest the following:
-
-`Lanzafame, R. (2023) Risk and reliability analysis for MUDE. Delft University of Technology, the Netherlands. https://tudelft-citg.github.io/MUDE/ `
+`Lanzafame, R. (2024) XXXXXXXXXXXXXXXXXXXXXXXX`
 
 ### How the book is made
 
@@ -22,6 +20,7 @@ This book is primarily written by Robert Lanzafame, but uses adapted excerpts fr
 
 Special thanks goes to Caspar Jungbacker, who set up the JupyterBook and GitHub repository to make this book and website possible, and Benjamin Ramousse, who brought the bivariate "patterns" to life with Python.
 
+**RISK FIGURE** need proper acknowledgement.
 
 ---
 
