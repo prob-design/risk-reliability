@@ -55,14 +55,6 @@ The cumulative  distribution function, $F_N(n)=P(N\leq n)$, can thus be easily c
 While the curves below illustrate probability and consequences associated with specific scenarios, the expected value of the distribution can be computed, which is equivalent to the area under the FN curve. This is useful can be used to assess the entire system. For this example, the expected value of fatalities per year for all scenarios can be computed as follows: 
 
 $$E(N) = P_{1}N_{1} + P_{2}N_{2} = 0.2\quad \textsf{(fatalities per year)}$$
-
-
-<!-- ````{toggle}
-```{eval-rst}
-.. literalinclude:: ../code/ex_FN_curve_step_01.py
-   :language: python
-```
-```` -->
  
 ```{figure} ../figures/ex_FN_curve_step_01_py.svg
 ---
@@ -72,13 +64,6 @@ name: ex_FN_curve_step_01
 Probability mass function (PMF), $f_N(N)$.
 ```
 
-<!-- ````{toggle}
-```{eval-rst}
-.. literalinclude:: ../code/ex_FN_curve_step_02.py
-   :language: python
-```
-```` -->
-
 ```{figure} ../figures/ex_FN_curve_step_02_py.svg
 ---
 width: 400
@@ -86,13 +71,6 @@ name: ex_FN_curve_step_02
 ---
 Cumulative distribution function (CDF), $F_N(n)$.
 ```
-
-<!-- ````{toggle}
-```{eval-rst}
-.. literalinclude:: ../code/ex_FN_curve_step_03.py
-   :language: python
-```
-```` -->
  
 ```{figure} ../figures/ex_FN_curve_step_03_py.svg
 ---

@@ -41,3 +41,4 @@ parts:
       - file: notebooks/contamination/Exercise_Contamination_Render.ipynb
       - file: notebooks/traffic/Exercise_Traffic_Render.ipynb
     - file: references.md
+    - file: credits.md

@@ -32,10 +32,10 @@ E(d) = \sum_{S_{i=1}}^{n}p_{i} \cdot d_{i}
 ```
 For the set of scenarios considered, the expected value quantifies risk precisely; however, it does not give insight in the magnitude of probability and consequences and the contribution of individual scenarios. For example, a single value does not indicate whether the risk is governed by a large number of scenarios with small consequences, or a few scenarios with large consequences and low probabilities. Therefore, an often-used companion risk-based tool is the risk curve, which shows the probability of exceedance and consequence for all scenarios. A well-known example of such a risk curve is the *FN curve*, which displays the probability of exceedance associated with $N$ (human) fatalities, schematized in {numref}`FN-curve-simple`. It is easy to compare the probability of exceeding a relatively low or high number of fatalities.
 
-```{figure} ../figures/FN-simple.PNG
+```{figure} ../figures/fn_simple01.svg
 ---
-height: 200px
-name: FN-curve-simple
+height: 600
+name: fn_simple01
 ---
 FN curve, showing the probability of exceedance of a certain number of fatalities N on Log-Log scale.
 ```
