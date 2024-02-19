@@ -104,14 +104,20 @@ Safety standards can be used to set limits to the individual and societal risk. 
   - 0
 ```
 
-Societal risk can be evaluated by means of an FN limit line. The calculated FN curve of the system should, in principle, not exceed the limit line. An FN-criterion is defined by three variables: (1) its base point (the exceedance probability of 1 fatality, i.e. C), (2) its slope ($\alpha$), and (3) its probability and/or consequence cut-off ($A$ and $B$). {numref}`limit_line` shows the different constraints that could make up an FN limit line. 
+Societal risk can be evaluated by means of an FN limit line. The calculated FN curve of the system should, in principle, not exceed the limit line. An FN-criterion is defined by three variables:
 
-```{figure} ../figures/fn_limit_eq.png
+1. A base point: the exceedance probability of 1 fatality (i.e. $C$),
+2. A slope, $\alpha$, and
+3. Probability and/or consequence cut-offs ($A$ and $B$).
+
+{numref}`limit_line` schematically illustrates the different criterion that could make up an FN limit line. 
+
+```{figure} ../figures/fn_limit00.svg
 ---
-height: 400px
+height: 600px
 name: limit_line
 ---
-Schematic FN curve illustrating limit line formulation.
+Schematic FN curve illustrating limit line formulation with horizontal and vertical cut-offs.
 ```
 
 The general formulation for such a limit line without horizontal of vertical cut-off equals:
@@ -124,13 +130,14 @@ where:
 - $C$ a constant that determines the vertical position of the limit line
 - $\alpha$ a coefficient that determines the steepness of the limit line
   
-The limit line is called risk neutral[^neutral] if $\alpha=1$, since it places equal weight on exceedance probabilities and numbers of fatalities. If $\alpha = 2$, the limit is risk averse. This means that that the exceedance probability of 10 times as many fatalities should be 100 times lower. This has been motivated by public aversion to large numbers of fatalities. For example, the loss of 1000 people in one accident (e.g. a major explosion) could be valued differently than  1000 losses of 1 person in separate accidents (e.g. in traffic).
+The limit line is called *risk neutral*[^neutral] if $\alpha=1$, since it places equal weight on exceedance probabilities and numbers of fatalities. If $\alpha = 2$, the limit is *risk averse.* This means that given an arbitrary point, the exceedance probability of 10 times as many fatalities should be 100 times lower. This has been motivated by public aversion to large numbers of fatalities. For example, the loss of 1000 people in one accident (e.g. a major explosion) could be valued differently than 1000 losses of 1 person in separate accidents (e.g. in traffic).
 
 For different applications limit lines have been developed with varying constants and steepness. Examples of application areas include industrial risks in the Netherlands (next section), dams in the United States and Canada, and chemical risks in Hongkong and the UK {cite:p}`jonkman2003`.
 
 
 ````{admonition} Exaple: Risk Matrix
 Risk matrices are often used in various industries for risk evaluation and decision support, for example, to quickly prioritize actions, especially in time-sensitive situations. For a given undesired event the extent of probability and consequences are estimated on a qualitative or semi-quantitative scale, see {numref}`risk_matrix` for an example. Ranges of failure probabilities or consequences can be assigned to the qualitative terms on the axes in the example. The combination of probability and consequence determines the level of risk, and depending on the application, whether it is acceptable or whether it requires more attention and risk reduction efforts. However, unlike the FN curve, the cumulative effects of multiple possible events are generally not considered in a risk matrix.
+
 ```{figure} ../figures/risk_matrix.png
 ---
 width: 500px
@@ -185,7 +192,7 @@ The criterion for societal risk that is used in the Netherlands for evaluating t
 width: 600
 name: fn_limit
 ---
-FN limit line used for installations in the Netherlands
+FN limit line used for installations in the Netherlands, with hypothetical risk curve.
 ```
 
 ## Case Study: Flood Protection
