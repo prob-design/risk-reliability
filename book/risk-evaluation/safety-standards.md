@@ -180,9 +180,9 @@ A distinction is made between vulnerable objects such as schools and houses and 
 
 The criterion for societal risk that is used in the Netherlands for evaluating the third party risks posed by major industrial hazards is shown in {numref}`fn_limit` below. It serves as a reference in the broader assessment of third party risks by competent authorities. Exceedances of the criterion line also have to be motivated by competent authorities. When the criterion line is not exceeded, the acceptability of the third party risk still has to be motivated. The limit line is characterized by $C=10^{-3}$ and a steepness of $\alpha = 2$, making it a risk averse criterion. The criterion is used to assess the acceptability of the risks of individual facilities.  
 
-```{figure} ../figures/fn_limit.png
+```{figure} ../figures/fn_limit01.svg
 ---
-width: 400px
+width: 600
 name: fn_limit
 ---
 FN limit line used for installations in the Netherlands
