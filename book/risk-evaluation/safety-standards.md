@@ -145,8 +145,12 @@ name: risk_matrix
 ---
 Example of a risk matrix used by various engineering and military branches of the United States Army Corps of Engineers (Source: Corps [Risk Management Center](https://www.rmc.usace.army.mil/) or [Risk Analysis Gateway](https://www.iwr.usace.army.mil/Missions/Risk-Analysis-Gateway/Risk-Assessment/)).
 % Note: real source is a PDF [here](https://home.army.mil/lee/application/files/7815/3809/1878/Tables.pdf)
+% Formal definition is in this: Manual EM 385-1-1 https://www.publications.usace.army.mil/portals/76/publications/engineermanuals/em_385-1-1.pdf
 ```
 ````
+
+
+
 ## Case Study: Industrial Hazards
 
 The Dutch major hazards policy deals with the risks to those living in the vicinity of major industrial hazards such as chemical plants and LPG-fuelling stations. The development of the Dutch major hazards policy was strongly incident driven, as were European efforts aimed at the prevention of major industrial accidents. After a number of severe industrial accidents, including the Bhopal accident in 1984 which killed an estimated 3000 people and severely injured over 200.000, a European directive was drafted concerning the prevention of major accidents: the 1982 Seveso Directive. This was later replaced by the Seveso II Directive.
