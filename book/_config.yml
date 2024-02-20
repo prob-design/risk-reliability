@@ -10,5 +10,18 @@ html:
 # END DRAFT
 
 sphinx:
+  local_extensions:
+    apastyle: _ext/
+    bracket_citation_style: _ext/
+
   extra_extensions:
     - sphinx-image-inverter
+  config:
+    bibtex_reference_style: author_year_round
+    bibtex_default_style: myapastyle
+    # This next line was from Caspar and doesn't work (see Issue 24)
+    # https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/-/issues/24
+    # bibtex_reference_style: author_year_apa
+
+bibtex_bibfiles: 
+  - _bibliography/references.bib
