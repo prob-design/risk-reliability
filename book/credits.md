@@ -20,10 +20,14 @@ This book is primarily written by Robert Lanzafame, but uses adapted excerpts fr
 
 Special thanks goes to Caspar Jungbacker, who set up the JupyterBook and GitHub repository to make this book and website possible, and Benjamin Ramousse, who brought the bivariate "patterns" to life with Python.
 
-**RISK FIGURE** need proper acknowledgement.
+
+
+{numref}`risk-curve-baecher` and {numref}`risk-curve-baecher-2` are from {cite:t}`baecher2003`, based on {cite:t}`baecher1982` and described in {cite:t}`baecher2021`
+
+{numref}`risk_matrix` is from an online PDF document (located [here](https://home.army.mil/lee/application/files/7815/3809/1878/Tables.pdf)). The formal definition for the risk matrix can be found in Engineering Manual EM 385-1-1 (located [here](https://www.publications.usace.army.mil/portals/76/publications/engineermanuals/em_385-1-1.pdf)).
 
 ---
 
-This book is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+Except the figures mentioned above, this book is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
