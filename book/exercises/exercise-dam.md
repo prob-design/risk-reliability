@@ -1,15 +1,8 @@
 # Dam and River
 
-<!--
-```{admonition} MUDE Exam Information
-:class: tip, dropdown
-Questions 1, 3 and 4 are representative for the Q2 MUDE exam. Question 2 is related.
-```
+You are tasked to analyse the safety of a dam and the downstream river system. Downstream of the dam there is a dike ring protected by two main dike sections which must be able to contain water released from the reservoir. The dike sections are connected to each other and form a continuous boundary along the same side of the river. Let $P(F_1)=0.01$ and $P(F_2)=0.01$ denote failure probability of dike section 1 and section 2 respectively. There appears to be a correlation between failures of both sections, $\rho_{1,2}=0.9$, and the figure below shows the effect of the correlation coefficient on the joint failure of the two sections.
 
-You are tasked to analyse the safety of a dam and the downstream river system. Downstream of the dam there is a dike ring protected by two main dike sections which must be able to contain water released from the reservoir. The dike sections are connected to each other and form a continuous boundary along the same side of the river. Let $P(F_1)=0.01$ and $P(F_2)=0.01$ denote failure probability of dike section 1 and section 2 respectively. There appears to be a correlation between failures of both sections, $\rho_{1,2}=0.9$, and the figure below shows the effect of the correlation coefficient on the joint failure of the two sections. -->
-
-
-% commented paragraphs were used for an exam question with a fault tree
+%commented paragraphs were used for an exam question with a fault tree
 
 %You are tasked to analyse the safety of a dam. The dam itself can fail due to instability, and another failure mechanism is failure of the spillway due to uncontrolled erosion that could reach the body of the dam. If water levels in the reservoir become high, water is released from the reservoir into the spillway due to overflow, which happens approximately once every 10 years.
 
@@ -43,12 +36,6 @@ $$
     P(\textrm{flooding}) = 0.01 + 0.01 - 0.003 = 0.017 \: \mathrm{/year}
 $$
 ```
-
-<!--
-```{admonition} MUDE Exam Information
-:class: tip, dropdown
-This question illustrates how we will give you everything you need if you are asked about system reliability and dependence, but you need to recognize if something is a series or parallel system, and recognize the quantitative influence of dependence.
-``` -->
 
 ## Dam repair: probabilistic planning
 

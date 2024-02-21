@@ -189,13 +189,3 @@ The 'and' and 'or' approaches (intersection and union) are simple, but really on
 
 The situation illustrated here is often referred to as a *component reliability* problem, where the 'component' is defined by a function of random variables.
  Although nothing more than a function of random variables,is nothing more than an integration over a specific region of a multivariate probability density function. Often this region describes failure of a component, which we will try to keep below an acceptable level.
-
-<!-- ```{admonition} MUDE exam information
-:class: tip, dropdown
-Given a specific scenario, you should be able to identify the design condition and an appropriate method for calculating a probability of interest (as illustrated here). Functions of random variables are illustrated more thoroughly in the **Component Reliability** chapter.
-``` -->
-
-<!-- ```{admonition} MUDE exam information
-:class: tip, dropdown
-Given a specific scenario, you should understand the difficulty associated with choosing specific design values when more than one random variable is considered, and be able to represent the failure probability analytically and graphically. For simple measures of dependence (correlation coefficient, $\rho$) you can describe the quantitative influence on failure probability. You should also recognize how a function of random variables can be used the univariate case is simple, it can also be extended to a function of random variables, which implicitly assumes a more complex multivariate probability distribution though the marginal distributions of the (random) input variables. This topic is covered more thoroughly in the **Component Reliability** chapter.
-``` -->

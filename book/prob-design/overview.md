@@ -37,15 +37,5 @@ The evaluation and design of a river flood protection system is used to introduc
 
 _The primary author for this chapter is Robert Lanzafame._
 
-<!--```{admonition} MUDE exam information
-:class: tip
-In this chapter exam tips are given on the page of each section.
-```-->
-
-%Table of contents:
-
-%```{tableofcontents}
-%```
-
 [^solicitation]: $S$ stands for solicitation. While this letter and word are much more pedantic-sounding than simply using load, or $L$, it is widely used in the structural engineering field, where component reliability methods were pioneered. Here we take a broader approach on the subject. Classical texts are {cite:t}`adk2022`, {cite:t}`moss2020` and {cite:t}`ditlevsen1996`.
 %[^pattern]: The word *paradigm* is not used because it suggests completeness. The examples here, are meant to be used as illustrations for key concepts, and extended to other situations and higher dimensions, so *pattern* seems more appropriate.

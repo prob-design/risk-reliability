@@ -1,8 +1,6 @@
 # Risk and Reliability
 
-% start copy: intro page
 This book was developed and used for use in the master's program in the faculty of Civil and Environmental Engineering at Delft University of Technology in the Netherlands. Although the concepts are relevant for a wider audience outside the faculty, the generic reference "for Engineers" in the title refers to the diverse areas of emphasis evolving within the field historically referred to as "civil engineering." For example, our MSc programs in Environmental Engineerinng and Applied Earth Sciences.
-% end copy
 
 There are three versions of this book available online:
 1. Published via the TU Delft Library **LINK**
@@ -28,9 +26,7 @@ This book will eventually:
 
 ## Building and Editing the Book
 
-% start copy: intro page
 This book is created using open source tools: it is a Jupyter Book that is written using Markdown, Jupyter notebooks and Python files to generate some figures. The files are stored on a [public GitLab repository of TU Delft](https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/). The published version of this book is compiled from a special branch (`xxxxxxxx`). View the repository README file or contact the author for additional information.
-% end copy
 
 ### Setup
 
