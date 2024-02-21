@@ -6,3 +6,6 @@ jupyterquiz
 seaborn
 pytest
 openpyxl
+# docutils version for reference page formatting
+# (See JB manual, Issues #21 and #24)
+docutils==0.17.1
