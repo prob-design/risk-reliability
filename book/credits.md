@@ -5,7 +5,7 @@ You can refer to this book as:
 
 > Lanzafame, R. (2024) _Risk and Reliability for Engineers_, TU Delft Open, 2024, doi XXXXXXXX.
 
-The structure of the book and formatting of contents is done by the Editor, Robert Lanzafame. Primary authors are identified within the book either at the bottom of the first in a chapter, or at the bottom of an individual page, as necessary. If an author is not listed on a particular page, it is Robert Lanzafame.
+The introduction, structure of the book and formatting of contents is done by the Editor, Robert Lanzafame. Some chapters and pages have additional primary authors who are identified within the book either at the bottom of the first page in a chapter, or at the bottom of an individual page, as necessary. If an author is not listed on a particular page, it is Robert Lanzafame.
 
 You can refer to individual chapters or pages within this book as:
 
@@ -24,7 +24,7 @@ Robert Lanzafame.
 
 ### Acknowledgements
 
-This book is primarily written by Robert Lanzafame, but uses adapted excerpts from the lecture notes of a previous course, CIE4130 Probabilistic Design, which was last taught at Delft University of Technology in 2022. In particular, parts of the risk analysis and most of the risk evaluation chapters reuse modified material from Professor Bas Jonkman. This book, and the included exercises, would not be possible without the efforts of many CIE4130 teachers over the last decades (in alphabetical order): Bas Jonkman, Han Vrijling, Oswaldo Morales Napoles, Pieter van Gelder, Raphaël Steenbergen, Robert Lanzafame, Ton Vrouwenvelder.
+This book uses adapted excerpts from the lecture notes of a previous course, CIE4130 Probabilistic Design, which was last taught at Delft University of Technology in 2022. In particular, parts of the risk analysis and most of the risk evaluation chapters reuse modified material from Professor Bas Jonkman. This book, and the included exercises, would not be possible without the efforts of many CIE4130 teachers over the last decades (in alphabetical order): Bas Jonkman, Han Vrijling, Oswaldo Morales Napoles, Pieter van Gelder, Raphaël Steenbergen, Robert Lanzafame, Ton Vrouwenvelder.
 
 Many people provide technical support to enable teachers at the faculty of Civil Engineering and Geosciences (CEG) to develop books for improving the learning experience of our students, especially via development of the MUDE Module (CEGM1000) and through the activities of our teaching assistants. For additional information on books at CEG, contact Robert Lanzafame or Tom van Woudenberg at `books-CEG` AT `tudelft.nl` or visit [interactivetextbooks.citg.tudelft.nl](https://interactivetextbooks.citg.tudelft.nl/). Financial support has been generously granted by the CEG faculty via various grants and discretionary funds.
 

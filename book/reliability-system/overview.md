@@ -145,7 +145,6 @@ The word 'system' in the title of this chapter refers to a reliability analyses 
 
 System reliability analysis can look very similar to component reliability problems, especially when various combinations of discrete and continuous random variables are incorporated. In reality, all of these problems are generalized by the concept of a multivariate probability distribution. The concepts are separated following conventions in engineering practice, as well as for the convenience of illustrating analytic and numerical solutions.
 
-%Table of contents:
+---
 
-% ```{tableofcontents}
-% ```
+_The primary author for this chapter is Robert Lanzafame._
