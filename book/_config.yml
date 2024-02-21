@@ -17,11 +17,12 @@ sphinx:
   extra_extensions:
     - sphinx-image-inverter
   config:
+    # See: https://github.com/executablebooks/jupyter-book/issues/1090
     bibtex_reference_style: author_year_round
     bibtex_default_style: myapastyle
     # This next line was from Caspar and doesn't work (see Issue 24)
     # https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/-/issues/24
-    # bibtex_reference_style: author_year_apa
+    # bibtex_reference_style: author_year
 
 bibtex_bibfiles: 
   - _bibliography/references.bib

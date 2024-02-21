@@ -2,6 +2,10 @@
 
 This book splits risk into two parts: risk *analysis* and risk *evaluation.* This chapter considers the analysis of risks from a broad perspective, beginning with definitions and key steps of a risk analysis, illustrated quantitatively through an FN curve. The next two chapters explore quantitative analyses (component and system reliability) before returning to risk evaluation concepts of decision theory, cost benefit analysis and safety standards, where the principal focus is on making decisions and answering the question 'how safe is safe enough?'
 
+---
+
+_The primary authors for this chapter are Bas Jonkman and Robert Lanzafame._
+
 <!--
 ```{admonition} MUDE exam information
 :class: tip, dropdown

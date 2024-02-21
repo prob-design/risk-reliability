@@ -106,6 +106,10 @@ Overview of non-linear problems (distribution and LSF); explanation of LSF; form
 
 % THIS IS REMOVED FOR 2022-23 SINCE THE SEPARATE PAGES WERE NOT COMPLETED
 
+---
+
+_The primary author for this chapter is Robert Lanzafame._
+
 <!--
 ```{admonition} Exam Information
 :class: tip, dropdown

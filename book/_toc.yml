@@ -7,7 +7,7 @@ parts:
       sections:
       - file: prob-design/01-one-random-variable.md
       - file: prob-design/02-two-random-variables.md
-      - file: prob-design/example-river-system.md
+      # - file: prob-design/example-river-system.md
     - file: risk-analysis/overview.md
       sections:
       - file: risk-analysis/definition.md
@@ -35,10 +35,10 @@ parts:
       - file: exercises/exercise-paint.md
       - file: exercises/exercise-dam.md
       - file: exercises/exercise-sample-exam.md
-    - file: notebooks/overview.md
-      sections:
-      - file: notebooks/flood-risk/Exercise_Flood_Risk_Render.ipynb
-      - file: notebooks/contamination/Exercise_Contamination_Render.ipynb
-      - file: notebooks/traffic/Exercise_Traffic_Render.ipynb
+    # - file: notebooks/overview.md
+    #   sections:
+    #   - file: notebooks/flood-risk/Exercise_Flood_Risk_Render.ipynb
+    #   - file: notebooks/contamination/Exercise_Contamination_Render.ipynb
+    #   - file: notebooks/traffic/Exercise_Traffic_Render.ipynb
     - file: references.md
     - file: credits.md

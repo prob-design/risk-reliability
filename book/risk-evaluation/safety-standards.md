@@ -24,7 +24,7 @@ As risk is often the by-product of an otherwise legitimate and advantageous acti
 
 ## Three Types of Risk
 
-Based on the general concepts described above, it has been proposed to evaluate risks based on three criteria ({cite:p}`TAW1985,vrijling1995,vrijling1998`):
+Based on the general concepts described above, it has been proposed to evaluate risks based on three criteria {cite:p}`TAW1985,vrijling1995,vrijling1998`:
 - limit the **invidual risk** to prevent that certain people are exposed to disproportionally large risks;
 - limit the **societal risk** to limit the risks of large scale accidents with many fatalities;
 - **Economic optimization** to balance investments in risk reduction from an economic point of view.
@@ -143,7 +143,7 @@ Risk matrices are often used in various industries for risk evaluation and decis
 width: 500px
 name: risk_matrix
 ---
-Example of a risk matrix used by various engineering and military branches of the United States Army Corps of Engineers (Source: Corps [Risk Management Center](https://www.rmc.usace.army.mil/) or [Risk Analysis Gateway](https://www.iwr.usace.army.mil/Missions/Risk-Analysis-Gateway/Risk-Assessment/)).
+Example of a risk matrix used by various engineering and military branches of the United States Army Corps of Engineers. Source: [this USACE document](https://home.army.mil/lee/application/files/7815/3809/1878/Tables.pdf) (opens a PDF); general explanation can be found via Engineering Manual EM-385-1-1 {cite:p}`usace14`, or online at USACE [Risk Management Center](https://www.rmc.usace.army.mil/) or [Risk Analysis Gateway](https://www.iwr.usace.army.mil/Missions/Risk-Analysis-Gateway/Risk-Assessment/).
 % Note: real source is a PDF [here](https://home.army.mil/lee/application/files/7815/3809/1878/Tables.pdf)
 % Formal definition is in this: Manual EM 385-1-1 https://www.publications.usace.army.mil/portals/76/publications/engineermanuals/em_385-1-1.pdf
 ```
