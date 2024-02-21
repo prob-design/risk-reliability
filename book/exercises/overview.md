@@ -5,9 +5,3 @@ A number of exercises are included in this chapter that illustrate the previousl
 ---
 
 _Exercises are largely drawn from decades of old course material from many contributors; this chapter can be referred to using standard Editor attribution._
-
-<!--
-```{admonition} MUDE Exam Information
-:class: tip, dropdown
-The 'real' exam will be similar to the sample exam questions (but not as many!). Some of the other exercise questions in this chapter illustrate interesting concepts, but are outside the scope of the exam; notes are added to point this out. Finally, the 'real' exam questions will be based on applications other than flood risk.
-``` -->

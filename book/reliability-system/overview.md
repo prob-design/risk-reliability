@@ -122,19 +122,6 @@ which means the correct statement is that dependence quantifies how the "*probab
 
 This page contains a brief introduction to the computation of failure probability for series and parallel systems, and describes the role of dependence. The following section illustrates these concepts with a simple exercise.
 
-<!--
-```{admonition} MUDE Exam Information
-:class: tip, dropdown
-For the exam, you should be able to recognize and solve simple series and parallel systems, as well as describe the influence that dependence between components may have on the calculated probability of interest. You will not need to draw or evaluate a system more complex than those illustrated on this page.
-``` -->
-% THIS IS REMOVED FOR 2022-23 SINCE THE SEPARATE PAGES WITH SERIES/PARALLEL ILLUSTRATING DEPENDENCE WERE NOT COMPLETED
-<!-- This chapter contains a brief introduction to the computation of failure probability for series and parallel systems, and illustrates the role of dependence. The final section illustrates these concepts with a simple exercise.
-
-```{admonition} MUDE Exam Information
-:class: tip, dropdown
-For the exam, you should be able to recognize and solve simple series and parallel systems, as well as describe the influence that dependence between components may have on the calculated probability of interest. You will not need to draw or evaluate a system more complex than those illustrated on this page.
-``` -->
-
 ### Additional Information
 
 The word 'system' in the title of this chapter refers to a reliability analyses made up of more than one distinct components. It may or may not be the same as the system for which the risk analysis is being done. For example, in the flood risk case we look at a dike ring, which is a series system of dike segments. Each dike segment can fail in a variety of ways (e.g., sliding or eroding), where if *any* of these types of failure occurs, the dike fails; a series system. Thus, the dike ring is a series system, where each component also a series system.

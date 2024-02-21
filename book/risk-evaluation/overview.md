@@ -6,13 +6,3 @@ This chapter focuses on the evaluation of risk (Step 4) by applying several diff
 ---
 
 _The primary author for this chapter is Bas Jonkman. Robert Lanzafame contributed through rearrangement of the topics and formatting._
-
-<!--
-```{admonition} MUDE Exam Information
-:class: tip, dropdown
-You are expected to make simple calculations as illustrated in the following sections: decision analysis, cost benefit analysis and economic optimization. You should understand the difference in the three types of risk described in the safety standards section and be able to make calculations to see if a component or system meets the requirements, as well as recommend simple risk criteria.
-``` -->
-
-%Table of contents:
-%```{tableofcontents}
-%```

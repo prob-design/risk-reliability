@@ -54,42 +54,6 @@ Risk and reliability concepts have been organized into five primary chapters to 
 
 Additional chapters are provided to put these concepts into context, explain industry-specific characteristics or indicate possibilities of additional study for the student.
 
-<!--
-### MUDE Module Information
-
-This book is prepared for CEGM1000: Modeling, Uncertainty and Data for Engineers (MUDE), a first year MSc module in the Civil Engineering and Geosciences faculty at TU Delft. During the 2022-23 academic year it is only used for two weeks (2.7-2.8) for topics of risk and reliability.
-
-```{admonition} MUDE exam information
-:class: tip, dropdown
-
-Exam tips like this one are included throughout this book, mostly on the front page of each chapter (but there are exceptions). They describe the key concepts from this book that will be assessed on the Q2 MUDE exam, specifically:
-- Definitions of risk and steps of a risk analysis
-- Simple system and component reliability (quantitative risk analysis methods)
-- Use of probability to design and assess engineering systems and components
-- Influence of dependence on simple systems and components
-- Decision analysis, cost-benefit analysis and economic optimization (risk evaluation methods)
-- Evaluation and quantification of risks for a system with three different risk metrics: individual, societal and economic
-- Application and derivation of standards for human safety (individual and societal risk)
-- Application and derivation of standards based on economic risk
-
-Although the list is long, the methods are introduced in a simple form and are always applied to simplified systems of engineering problems within Civil and Environmental Engineering and Geosciences.
-```
-
-```{admonition} MUDE not-on-the-exam information
-:class: tip, dropdown
-The following concepts or methods are used in this book to illustrate key subjects and examples, but you will *not* be asked to do them on the exam:
-- List from memory the steps of a risk analysis and describe all aspects in detail
-- Set up a decision tree yourself (note that you may be given a tree with values filled in and asked to interpret it)
-- Define a limit-state function yourself and calculate failure probability
-- Schematize system reliability problems (we will give you one)
-- Evaluate risk curves with more than three scenarios
-- Perform complicated cost benefit analyses
-- By now this list should give you a good enough idea of what to (not) expect...
-
-Exam questions are also designed such that specialized knowledge is not needed to solve them; however, you should be able to recognize loads and resistances and series and parallel systems for any simple civil engineering and geoscience application provided on the exam.
-``` 
--->
-
 ### Additional Resources
 
 If you are in need of a quick refresher on fundamental probability and statistics topics, you may find the online course [Probability and Statistics for Engineers](https://tudelft-citg.github.io/learn-probability/) helpful. This course was created for those who need to brush up on topics from a prior bachelors-level course. If you have no background in probability and statistics you will need to take a more thorough approach; we recommend the Probability Theory and Statistics courses offered in the Mastering Mathematics series from TU Delft, which you can find [here](https://online-learning.tudelft.nl/topic/mastering-mathematics/) (also on EdX).

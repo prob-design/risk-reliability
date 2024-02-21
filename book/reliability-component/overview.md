@@ -52,9 +52,9 @@ The example above is 'simple' for three reasons, specifically. It has:
 2. the function of random variables, $g(X)$ is linear
 3. the distribution of the random variables (variable, in this case) is Gaussian
 
-These three characteristics make component reliability problems very easy to solve. In fact, you've already done this earlier in MUDE with (co)variance propagation methods. Unfortunately, as problems become more complex, so do the methods required for solving such problems.
+These three characteristics make component reliability problems very easy to solve. In fact, you should have already done this earlier probability courses with (co)variance propagation methods. For example, solving for the mean and standard deviation of a linear function of random variables that are each Gaussian is straightforward, as the function of random variables is also Gaussian. Unfortunately, as problems become more complex, so do the methods required for solving such problems.
 
-In MUDE we focus on simple situations with up to two variables (the 'bivariate' case) that can be solved analytically (linear functions and Gaussian random variables). Random variables are limited to continuous parametric distributions and linear measures of dependence (correlation coefficient, multivariate Gaussian). If these requirements are relaxed, we will use simulation to calculate the failure probability numerically (i.e., Monte Carlo simulation).
+In this book we focus on simple situations with up to two variables (the 'bivariate' case) that can be solved analytically (linear functions and Gaussian random variables). Random variables are limited to continuous parametric distributions and linear measures of dependence (correlation coefficient, multivariate Gaussian). If these requirements are relaxed, we will use simulation to calculate the failure probability numerically (i.e., Monte Carlo simulation).
 
 With this in mind, a generic procedure for using component reliability analysis in a probabilistic design context is:
 
