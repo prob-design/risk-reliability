@@ -24,7 +24,7 @@ As risk is often the by-product of an otherwise legitimate and advantageous acti
 
 ## Three Types of Risk
 
-Based on the general concepts described above, it has been proposed to evaluate risks based on three criteria ({cite:p}`TAW1985,vrijling1995,vrijling1998`):
+Based on the general concepts described above, it has been proposed to evaluate risks based on three criteria {cite:p}`TAW1985,vrijling1995,vrijling1998`:
 - limit the **invidual risk** to prevent that certain people are exposed to disproportionally large risks;
 - limit the **societal risk** to limit the risks of large scale accidents with many fatalities;
 - **Economic optimization** to balance investments in risk reduction from an economic point of view.
