@@ -35,10 +35,10 @@ parts:
       - file: exercises/exercise-paint.md
       - file: exercises/exercise-dam.md
       - file: exercises/exercise-sample-exam.md
-    - file: notebooks/overview.md
-      sections:
-      - file: notebooks/flood-risk/Exercise_Flood_Risk_Render.ipynb
-      - file: notebooks/contamination/Exercise_Contamination_Render.ipynb
-      - file: notebooks/traffic/Exercise_Traffic_Render.ipynb
+    # - file: notebooks/overview.md
+    #   sections:
+    #   - file: notebooks/flood-risk/Exercise_Flood_Risk_Render.ipynb
+    #   - file: notebooks/contamination/Exercise_Contamination_Render.ipynb
+    #   - file: notebooks/traffic/Exercise_Traffic_Render.ipynb
     - file: references.md
     - file: credits.md

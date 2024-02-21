@@ -1,8 +1,6 @@
 (intro)=
 # Introduction 
 
-Welcome to the lecture notes for weeks 2.7 and 2.8 which provides an introduction to risk and reliability.
-
 Almost all activities in life are characterized by some level of risk, such as riding a bike or driving a car, boarding an airplane, or living below sea level behind flood protection system. Particularly within the field of civil engineering, risk and safety are key concepts that should be taken into account explicitly in design and management. Failures of systems providing flood protection, water distribution, transportation networks, air quality control, buildings and other infrastructure are expected to occur rarely, but can lead to large consequences. On the other hand, these systems also provide many benefits to humankind on a daily basis. 
 
 *Risk* is often defined simply as the combination of probability and consequences; it is a measure of how bad something can be (the consequence) combined with the chance that it can happen. In mathematical form: 
@@ -94,8 +92,13 @@ Exam questions are also designed such that specialized knowledge is not needed t
 
 ### Additional Resources
 
-If you are in need of a quick refresher on fundamental probability and statistics topics, you may find the online course [Probability and Statistics Applications for MUDE](https://tudelft-citg.github.io/learn-probability/) helpful. This course was created for incoming students to the MSc program. If you have no background in proability and statistics you will need to take a more thorough course: begninning in Summer 2023 two online courses, one on probability the other on statistics, will be available on EdX from the TU Delft Mathematics Department.
+If you are in need of a quick refresher on fundamental probability and statistics topics, you may find the online course [Probability and Statistics for Engineers](https://tudelft-citg.github.io/learn-probability/) helpful. This course was created for those who need to brush up on topics from a prior bachelors-level course. If you have no background in probability and statistics you will need to take a more thorough approach; we recommend the Probability Theory and Statistics courses offered in the Mastering Mathematics series from TU Delft, which you can find [here](https://online-learning.tudelft.nl/topic/mastering-mathematics/) (also on EdX).
 
+### Additional Information
+
+This book was developed and used for use in the master's program in the faculty of Civil and Environmental Engineering at Delft University of Technology in the Netherlands. Although the concepts are relevant for a wider audience outside the faculty, the generic reference "for Engineers" in the title refers to the diverse areas of emphasis evolving within the field historically referred to as "civil engineering." For example, our MSc programs in Environmental Engineerinng and Applied Earth Sciences.
+
+Additional information about authors, licenses and how the book is made can be found on the {ref}`Credits and License page <credits>`. We hope you enjoy this book, and don't hesitate to contact {ref}`the Editor <editor>` with questions or suggestions!
 
 [^dike]: A dike is a structure, typically made of soil, that protects a specific region from flooding by physically holding back water. Usually associated with rivers, such structures are also widely used on the coast, especially in low elevation areas such as the Netherlands. The Dutch word for levee is *dijk,* but English word *dike* is used in this book. Outside of the Netherlands the words *embankment* and *levee* are used.
 
