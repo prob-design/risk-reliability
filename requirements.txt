@@ -1,6 +1,7 @@
 # --index-url https://__token__:glpat-JduurUdhDczFJzvzZN4G@gitlab.tudelft.nl/api/v4/projects/13957/packages/pypi/simple
 # citg-jb-stack
 
+# in case the jb-staxk caused a conflict, i just use these directly:
 jupyter-book
 numpy
 matplotlib
@@ -23,5 +24,5 @@ docutils==0.17.1
 --extra-index-url https://gitlab.tudelft.nl/api/v4/projects/17983/packages/pypi/simple
 jupyterbook_patches ~= 0.1.3
 --extra-index-url https://gitlab.tudelft.nl/api/v4/projects/11239/packages/pypi/simple
-sphinx-thebe == 0.2.999
+sphinx-thebe == 0.2.1000
 download_link_replacer @ git+https://gitlab.tudelft.nl/mude/sphinx-download-link-replacer@dlr-0.1.2
