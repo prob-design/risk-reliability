@@ -31,10 +31,8 @@ sphinx:
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
 
   extra_extensions:
-    # - sphinx_inline_tabs # broke
-    # - sphinx_grasple # broke
     - sphinx.ext.imgconverter
-    # - download_link_replacer # broke
+    - download_link_replacer
     - jupyterbook_patches
   config:
     # See: https://github.com/executablebooks/jupyter-book/issues/1090
