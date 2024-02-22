@@ -21,7 +21,7 @@ docutils==0.17.1
 # In Feb 2024 it installed fine with Python 3.11 venv and pip
 
 --extra-index-url https://gitlab.tudelft.nl/api/v4/projects/17983/packages/pypi/simple
-jupyterbook_patches ~= 0.1.2
+jupyterbook_patches ~= 0.1.3
 --extra-index-url https://gitlab.tudelft.nl/api/v4/projects/11239/packages/pypi/simple
-sphinx-thebe == 0.2.1000
+sphinx-thebe == 0.2.999
 download_link_replacer @ git+https://gitlab.tudelft.nl/mude/sphinx-download-link-replacer@dlr-0.1.2
