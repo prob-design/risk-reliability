@@ -3,6 +3,11 @@ author: Robert Lanzafame
 logo: figures/cover_small.png
 copyright: Delft University of Technology, CC BY 4.0
 
+execute:
+  execute_notebooks: "off"
+
+only_build_toc_files: true
+
 # START DRAFT
 html:
   comments:
@@ -22,6 +27,10 @@ sphinx:
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
 
   extra_extensions:
+    - sphinx_inline_tabs
+    - sphinx_grasple
+    - sphinx.ext.imgconverter
+    - download_link_replacer
     - jupyterbook_patches
   config:
     # See: https://github.com/executablebooks/jupyter-book/issues/1090
