@@ -6,6 +6,10 @@ copyright: Delft University of Technology, CC BY 4.0
 execute:
   execute_notebooks: "off"
 
+launch_buttons:
+  thebe: true
+
+
 only_build_toc_files: true
 
 # START DRAFT
