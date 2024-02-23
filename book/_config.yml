@@ -16,10 +16,10 @@ repository:
   branch: main/book # for edit button; need to check branch permissions non-TUD user access
 
 html:
-# X START DRAFT # temporarily enable Hypothesis for published book until Library finishes
+# temporarily enable Hypothesis for published book until Library finishes
   comments:
     hypothesis: true
-# X END DRAFT
+# xxx
   use_edit_page_button: false
   use_repository_button: true
   extra_footer: |
