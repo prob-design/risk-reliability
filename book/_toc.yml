@@ -16,7 +16,6 @@ parts:
     - file: reliability-component/overview.md
       sections:
       - file: reliability-component/contamination.ipynb
-      - file: reliability-component/unsymmetrical_bending
       # sections:
       # - file: reliability-component/case-two-loads.md
       # - file: reliability-component/case-r-s.md
