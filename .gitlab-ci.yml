@@ -56,7 +56,7 @@ deploy-book:
     - docker run -d --restart always -p 8014:8000 --name $CI_PROJECT_NAME $TAG_LATEST # Make sure to use a different port for each book!
   environment:
     name: production
-    url: https://interactivetextbooks.citg.tudelft.nl/risk-reliability
+    url: https://interactivetextbooks.citg.tudelft.nl/$CI_PROJECT_NAME
 
 # Deploy the draft version of the book
 deploy-draft:
@@ -72,4 +72,4 @@ deploy-draft:
     - docker run -d --restart always -p 8015:8000 --name $CI_PROJECT_NAME-draft $TAG_DRAFT
   environment:
     name: draft
-    url: https://interactivetextbooks.citg.tudelft.nl/risk-reliability-draft
+    url: https://interactivetextbooks.citg.tudelft.nl/$CI_PROJECT_NAME-draft
