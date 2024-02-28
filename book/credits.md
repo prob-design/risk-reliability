@@ -15,12 +15,12 @@ Although content will be added over time, chapter titles and URL's in this book 
 
 ## How the book is made
 
-This book is created using open source tools: it is a Jupyter Book that is written using Markdown, Jupyter notebooks and Python files to generate some figures. The files are stored on a [public GitLab repository of TU Delft](https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/). The published version of this book is compiled from a special branch (`xxxxxxxx`). View the repository README file or contact the author for additional information.
+This book is created using open source tools: it is a Jupyter Book that is written using Markdown, Jupyter notebooks and Python files to generate some figures. The files are stored on a [public GitLab repository of TU Delft](https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/). The published version of this book is compiled from a special branch (`publish-tud-open-textbook`). View the repository README file or contact the author for additional information.
 
 (editor)=
 ## About the Editor
 
-Robert Lanzafame.
+Robert Lanzafame is a Senior Lecturer at Delft University of Technology in the Netherlands. He enjoys teaching and finding new ways to incorporate digital tools in engineering education, including making online interactive textbooks like this one together with colleagues. For more about Robert, visit his [TU Delft page](https://www.tudelft.nl/en/staff/r.c.lanzafame/).
 
 ### Acknowledgements
 
@@ -32,13 +32,12 @@ Special thanks goes to Caspar Jungbacker, who set up the JupyterBook and GitHub 
 
 ---
 
-This book is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+This book is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> (CC BY), except the following.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
+CC BY conditions are not applicable to: {numref}`risk-curve-baecher`, {numref}`risk-curve-baecher-2`, {numref}`dike_rings` and {numref}`risk_matrix`.
 
-The following items referenced in the text are _not_ included in the license:
+{numref}`risk-curve-baecher` and {numref}`risk-curve-baecher-2` are from {cite:t}`baecher2003`, based on {cite:t}`baecher1982` and described in {cite:t}`baecher2021`.
 
-{numref}`risk-curve-baecher` and {numref}`risk-curve-baecher-2` are from {cite:t}`baecher2003`, based on {cite:t}`baecher1982` and described in {cite:t}`baecher2021`
+{numref}`dike_rings` is originally shared under a CC-BY 4.0 license {cite:p}`tsimopoulou15`. The original can be accessed online via the publisher [here](https://link.springer.com/article/10.1007/s11027-015-9634-3), and the license is specified [here](https://www.researchgate.net/publication/272509981_Economic_optimization_of_flood_prevention_systems_in_the_Netherlands).
 
 {numref}`risk_matrix` is from an online PDF document (located [here](https://home.army.mil/lee/application/files/7815/3809/1878/Tables.pdf)). The formal definition for the risk matrix can be found in Engineering Manual EM 385-1-1 (located [here](https://www.publications.usace.army.mil/portals/76/publications/engineermanuals/em_385-1-1.pdf)).
-
