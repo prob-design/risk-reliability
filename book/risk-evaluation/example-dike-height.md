@@ -94,17 +94,21 @@ Using these values, the following optimal dike height and optimal failure probab
 
 ## Discussion
 
-Although the optimal safety level was determined at a failure probability of $P_{f,opt}$ =  1/125,000 per year, in later political discussions a value of 1/10,000 per year was selected for the probability of exceedance of design water levels. This implied that the dikes of South Holland would need to be designed for hydraulic conditions (water levels and waves) with a probability of exceedance of---on average---1/10,000 per year. In later decision-making, safety standards were derived for other dike rings (see {numref}`dike_rings`), for example, flood defenses in the river system are designed for a safety standard of 1/1250 per year.
+Although the optimal safety level was determined at a failure probability of $P_{f,opt}$ =  1/125,000 per year, in later political discussions a value of 1/10,000 per year was selected for the probability of exceedance of design water levels. This implied that the dikes of South Holland would need to be designed for hydraulic conditions (water levels and waves) with a probability of exceedance of---on average---1/10,000 per year. In later decision-making, safety standards were derived for other dike rings, for example, flood defenses in the river system were designed for a safety standard of 1/1250 per year. A map illustrating the different safety levels is shown in {numref}`dike_rings`. 
 
-```{figure} ../figures/dike_rings.jpg
+```{figure} ../figures/dike_rings.png
 ---
 width: 400px
 name: dike_rings
 ---
-Dike Rings in the Netherlands, showing probability of exceedance of the design water levels per dike ring. Note that dike rings along the River Meuse are not shown on this map. Most of these dike rings have a safety standard of 1/250 per year. This map defined design levels until the safety standards changed in 2017.
+Dike Rings in the Netherlands, showing probability of exceedance of the design water levels per dike ring. Note that dike rings along the River Meuse are not shown on this map. Most of these dike rings have a safety standard of 1/250 per year. This map defined design levels until the safety standards changed in 2017. Source: {cite:t}`tsimopoulou15`.
+% ResearchGate states CC-BY 4.0: https://www.researchgate.net/publication/272509981_Economic_optimization_of_flood_prevention_systems_in_the_Netherlands
+% DOI leads to SpringerLink, which acknowledges an open access creative commons license: https://link.springer.com/article/10.1007/s11027-015-9634-3
+% PDF states states copyright is by Authors
+% image file created from image copy in PDF, then reducing with online app from 1.8 MB to around 500 KB.
 ```
 
-It was expected that the actual failure probability for dikes designed for this design load, would be smaller than 1/10,000 per year. Recent risk analysis in the project VNK have shown that this is not the case due to the geotechnical failure mechanisms. For most dike rings the estimated failure probabilities are larger than the probability of exceeding the design loads. For example, for riverine dike rings that have been designed for design levels with a probability of exceedance of 1/1250 per year, failure probabilities are often in the order of magnitude of 1/100 per year {cite:p}`vnk2014`. This is part of the reason for revising the safety standards and flood defence assessment criteria in the Netherlands, which since 2017 is based on an allowable probability of flooding rather than a load-based exceedance probability approach.
+It was expected that the actual failure probability for dikes designed for this design load, would be smaller than 1/10,000 per year. Recent risk analysis in the project VNK[^VNK] have shown that this is not the case due to the geotechnical failure mechanisms. For most dike rings, the estimated failure probabilities are larger than the probability of exceeding the design loads. For example, for riverine dike rings that had been designed for design levels with a probability of exceedance of 1/1250 per year, failure probabilities are often in the order of magnitude of 1/100 per year {cite:p}`vnk2014`. This is part of the reason for revising the safety standards and flood defence assessment criteria in the Netherlands, which since 2017 is based on an allowable probability of flooding rather than a load-based exceedance probability approach. 
 
 Historic discussions and developments in the Netherlands illustrate how the risk analaysis and risk management for a given system can change over time. Several extensions and additions to the van Dantzig model have been proposed over the years. For example, the inclusion of sea level rise {cite:p}`vrijling1990`, modelling of the damage as dependent on the water depth in the polder {cite:p}`vandantzig1956`, the inclusion of the economic value of loss of life as part of the damage, and inclusion of risk aversion by giving quadratic weight to the damages {cite:p}`vangelder1997`.
 
@@ -119,3 +123,5 @@ name: periodic_investments
 ---
 Periodic investments in dike reinforcement for a situation with sea level rise.
 ```
+
+[^VNK]: VNK stands for _Veiligheid Nederland in Kaart,_ which roughly translates roughly to _Atlas of Dutch Safety (levels)_, was a risk analysis for all dike rings in the Netherlands performed in the 2000's and 2010's to verify and validate the new safety standards that were implemented in 2017. {cite:t}`vnk2014` is an overview report, although many individual reports were published for each dike ring; often more than one, describing the risk evaluation procedure.
