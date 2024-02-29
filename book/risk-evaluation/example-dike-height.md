@@ -101,7 +101,7 @@ Although the optimal safety level was determined at a failure probability of $P_
 width: 400px
 name: dike_rings
 ---
-Dike Rings in the Netherlands, showing probability of exceedance of the design water levels per dike ring. Note that dike rings along the River Meuse are not shown on this map. Most of these dike rings have a safety standard of 1/250 per year. This map defined design levels until the safety standards changed in 2017. Source: {cite:t}`tsimopoulou15`.
+Dike Rings in the Netherlands, showing probability of exceedance of the design water levels per dike ring. Note that dike rings along the River Meuse are not shown on this map. Most of these dike rings have a safety standard of 1/250 per year. This map defined design levels until the safety standards changed in 2017. Source: shared under a CC-BY 4.0 license {cite:p}`tsimopoulou15`. The original can be accessed online via the publisher [here](https://link.springer.com/article/10.1007/s11027-015-9634-3), and the license is specified [here](https://www.researchgate.net/publication/272509981_Economic_optimization_of_flood_prevention_systems_in_the_Netherlands).
 % ResearchGate states CC-BY 4.0: https://www.researchgate.net/publication/272509981_Economic_optimization_of_flood_prevention_systems_in_the_Netherlands
 % DOI leads to SpringerLink, which acknowledges an open access creative commons license: https://link.springer.com/article/10.1007/s11027-015-9634-3
 % PDF states states copyright is by Authors
