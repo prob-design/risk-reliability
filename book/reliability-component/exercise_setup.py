@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import erfc
 from scipy import stats
-import seaborn as sns
 
 def process_negative_values(q, n, a):
     """Prevents problems with negative values in sqrt of C_C0 function."""
@@ -28,7 +27,7 @@ def process_negative_values(q, n, a):
     return q, n, a
 
 class RandomVariableDistribution():
-    """Define a N or LN probability to use in MUDE week 2.7 exercise.
+    """Define a N or LN probability to use in contamination exercise.
     
     Usage:
     -----
@@ -181,7 +180,7 @@ def pdf_of_function_of_RV(cases, case_C=True, case_name=None, plot_limits=None):
             labels.append(f'Case {i+1}')
         else:
             labels.append(case_name[i])
-        sns.kdeplot(cases[i], label=labels[i], ax=plt.gca(), bw_adjust=bw_adjust)
+        plt.hist(cases[i], label=labels[i], alpha=0.5, edgecolor='k', bins=20, density=True)
     plt.legend()
     if case_C:
         plt.xlabel('Concentration ratio, $C/C_0$ [$-$]')
