@@ -28,16 +28,14 @@ This book uses adapted excerpts from the lecture notes of a previous course, CIE
 
 Many people provide technical support to enable teachers at the faculty of Civil Engineering and Geosciences (CEG) to develop books for improving the learning experience of our students, especially via development of the MUDE Module (CEGM1000) and through the activities of our teaching assistants. For additional information on books at CEG, contact Robert Lanzafame or Tom van Woudenberg at `books-CEG` AT `tudelft.nl` or visit [interactivetextbooks.citg.tudelft.nl](https://interactivetextbooks.citg.tudelft.nl/). Financial support has been generously granted by the CEG faculty via various grants and discretionary funds.
 
-Special thanks goes to Caspar Jungbacker, who set up the JupyterBook and GitHub repository to make this book and website possible; Benjamin Ramousse, who brought the bivariate "patterns" to life with Python; and ; Thirza Feenstra, who, along with Caspar and Robert, thought that this whole Jupyter Book thing was a "good idea."
+Special thanks goes to Caspar Jungbacker, who set up the JupyterBook and GitHub repository to make this book and website possible; Benjamin Ramousse, who brought the bivariate "patterns" to life with Python; and Thirza Feenstra, who, along with Caspar and Robert, thought that this whole Jupyter Book thing was a "good idea."
 
 ---
 
 This book is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> (CC BY), except the following.
 
-CC BY conditions are not applicable to: {numref}`risk-curve-baecher`, {numref}`risk-curve-baecher-2`, {numref}`dike_rings` and {numref}`risk_matrix`.
+CC BY conditions are not applicable to: {numref}`risk-curve-baecher`, {numref}`risk-curve-baecher-2` and {numref}`risk_matrix`.
 
 {numref}`risk-curve-baecher` and {numref}`risk-curve-baecher-2` are from {cite:t}`baecher2003`, based on {cite:t}`baecher1982` and described in {cite:t}`baecher2021`.
-
-{numref}`dike_rings` is originally shared under a CC-BY 4.0 license {cite:p}`tsimopoulou15`. The original can be accessed online via the publisher [here](https://link.springer.com/article/10.1007/s11027-015-9634-3), and the license is specified [here](https://www.researchgate.net/publication/272509981_Economic_optimization_of_flood_prevention_systems_in_the_Netherlands).
 
 {numref}`risk_matrix` is from an online PDF document (located [here](https://home.army.mil/lee/application/files/7815/3809/1878/Tables.pdf)). The formal definition for the risk matrix can be found in Engineering Manual EM 385-1-1 (located [here](https://www.publications.usace.army.mil/portals/76/publications/engineermanuals/em_385-1-1.pdf)).
