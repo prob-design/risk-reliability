@@ -5,4 +5,4 @@ This chapter focuses on the evaluation of risk (Step 4) by applying several diff
 
 ---
 
-_The primary author for this chapter is Bas Jonkman. Robert Lanzafame contributed through rearrangement of the topics and formatting._
+_The primary author for this chapter is S. N. (Bas) Jonkman. Robert Lanzafame contributed through rearrangement of the topics and formatting._
