@@ -4,7 +4,7 @@ This book splits risk into two parts: risk *analysis* and risk *evaluation.* Thi
 
 ---
 
-_The primary authors for this chapter are Bas Jonkman and Robert Lanzafame._
+_The primary authors for this chapter are S. N. (Bas) Jonkman and Robert Lanzafame._
 
 % The relationship between safety standards and engineering design is indicated in section 3.6...may be useful to add
 
