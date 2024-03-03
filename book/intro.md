@@ -62,12 +62,6 @@ If you are in need of a quick refresher on fundamental probability and statistic
 
 This book was developed and used for use in the master's program in the faculty of Civil and Environmental Engineering at Delft University of Technology in the Netherlands. Although the concepts are relevant for a wider audience outside the faculty, the generic reference "for Engineers" in the title refers to the diverse areas of emphasis evolving within the field historically referred to as "civil engineering." For example, our MSc programs in Environmental Engineerinng and Applied Earth Sciences.
 
-Additional information about authors, licenses and how the book is made can be found on the {ref}`Credits and License page <credits>`. We hope you enjoy this book, and don't hesitate to contact {ref}`the Editor <editor>` with questions or suggestions!
+This book is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Additional information about authors, licenses and how the book is made can be found on the {ref}`Credits and License page <credits>`. We hope you enjoy this book, and don't hesitate to contact {ref}`the Editor <editor>` with questions or suggestions!
 
 [^dike]: A dike is a structure, typically made of soil, that protects a specific region from flooding by physically holding back water. Usually associated with rivers, such structures are also widely used on the coast, especially in low elevation areas such as the Netherlands. The Dutch word for levee is *dijk,* but English word *dike* is used in this book. Outside of the Netherlands the words *embankment* and *levee* are used.
-
----
-
-This book is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
