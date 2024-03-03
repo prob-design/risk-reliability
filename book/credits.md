@@ -3,13 +3,13 @@
 
 You can refer to this book as:
 
-> Lanzafame, R. (2024) _Risk and Reliability for Engineers_, TU Delft Open, 2024, doi XXXXXXXX.
+> Lanzafame, R. (2024) _Risk and Reliability for Engineers_, TU Delft Open. https://doi.org/10.59490/tb.89.
 
 The introduction, structure of the book and formatting of contents is done by the Editor, Robert Lanzafame. Some chapters and pages have additional primary authors who are identified within the book either at the bottom of the first page in a chapter, or at the bottom of an individual page, as necessary. If an author is not listed on a particular page, it is Robert Lanzafame.
 
 You can refer to individual chapters or pages within this book as:
 
-> `<Primary Author>` (2024) `<Title of Chapter or Page>`. In Robert Lanzafame (Ed.), _Risk and Reliability for Engineers._ TU Delft Open, 2024, doi XXXXXXXX.
+> `<Primary Author>` (2024) `<Title of Chapter or Page>`. In Robert Lanzafame (Ed.), _Risk and Reliability for Engineers._ TU Delft Open. https://doi.org/10.59490/tb.89.
 
 Although content will be added over time, chapter titles and URL's in this book are expected to remain relatively static. However, we make no guarantee, so if it is important for you to reference a specific location within the book, we recommend including the complete URL and date of access in your reference.
 
