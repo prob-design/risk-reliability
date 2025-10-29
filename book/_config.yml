@@ -50,7 +50,7 @@ sphinx:
     bibtex_default_style: myapastyle
   extra_extensions:
     - sphinx.ext.imgconverter
-    - download_link_replacer
+    - download-link-replacer
     - jupyterbook_patches
   # Local extensions are for bibtex (Thirza's hydrology hack); see above
   local_extensions:
