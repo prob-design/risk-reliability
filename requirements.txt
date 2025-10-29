@@ -9,5 +9,5 @@ seaborn
 # In Feb 2024 it installed fine with Python 3.11 venv and pip
 
 jupyterbook_patches
-git+https://github.com/TeachBooks/Sphinx-Thebe
 download-link-replacer
+git+https://github.com/TeachBooks/Sphinx-Thebe
