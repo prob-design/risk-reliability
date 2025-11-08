@@ -15,7 +15,7 @@ Although content will be added over time, chapter titles and URL's in this book 
 
 ## How the book is made
 
-This book is created using open source tools: it is a Jupyter Book that is written using Markdown, Jupyter notebooks and Python files to generate some figures. The files are stored on a [public GitLab repository of TU Delft](https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/). The published version of this book is compiled from a special branch (`publish-tud-open-textbook`). View the repository README file or contact the author for additional information.
+This book is created using open source tools from [TeachBooks](https://teachbooks.io/): it is a Jupyter Book that is written using Markdown, Jupyter notebooks and Python files to generate some figures. Source files are stored in a public GitHub repository [github.com/prob-design/risk-reliability](https://github.com/prob-design/risk-reliability). View the repository `README.md` file or contact the author for additional information.
 
 (editor)=
 ## About the Editor
@@ -26,9 +26,9 @@ Robert Lanzafame is a Senior Lecturer at Delft University of Technology in the N
 
 This book uses adapted excerpts from the lecture notes of a previous course, CIE4130 Probabilistic Design, which was last taught at Delft University of Technology in 2022. In particular, parts of the risk analysis and most of the risk evaluation chapters reuse modified material from Professor Bas Jonkman. This book, and the included exercises, would not be possible without the efforts of many probabilistic design teachers over the last decades (in alphabetical order): S.N. (Bas) Jonkman, Han Vrijling, Oswaldo Morales Napoles, Pieter van Gelder, Raphaël Steenbergen, Robert Lanzafame, Ton Vrouwenvelder.
 
-Many people provide technical support to enable teachers at the faculty of Civil Engineering and Geosciences (CEG) to develop books for improving the learning experience of our students, especially via development of the MUDE Module (CEGM1000) and through the activities of our teaching assistants. For additional information on books at CEG, contact Robert Lanzafame or Tom van Woudenberg at `books-CEG` AT `tudelft.nl` or visit [interactivetextbooks.citg.tudelft.nl](https://interactivetextbooks.citg.tudelft.nl/). Financial support has been generously granted by the CEG faculty via various grants and discretionary funds.
+Many people provide technical support to enable teachers at the faculty of Civil Engineering and Geosciences (CEG) to develop books for improving the learning experience of our students, especially via development of the MUDE Module (CEGM1000) and through the activities of our teaching assistants. Financial support has been generously granted by the CEG faculty via various grants and discretionary funds.
 
-Special thanks goes to Caspar Jungbacker, who set up the JupyterBook and GitHub repository to make this book and website possible; Benjamin Ramousse, who brought the bivariate "patterns" to life with Python; and Thirza Feenstra, who, along with Caspar and Robert, thought that this whole Jupyter Book thing was a "good idea."
+Special thanks goes to Caspar Jungbacker, who set up the JupyterBook and GitHub repository to make this book and website possible; Benjamin Ramousse, who brought the bivariate "patterns" to life with Python; and Thirza Feenstra, who, along with Caspar and Robert, thought that this whole Jupyter Book thing was a "good idea," which eventually led to [TeachBooks](https://teachbooks.io/).
 
 ---
 
