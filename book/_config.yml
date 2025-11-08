@@ -21,7 +21,7 @@ html:
   extra_footer: |
       <p>
         © Delft University of Technology, CC BY 4.0
-        <img src="https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/-/raw/main/book/images/TUDelft_logo_rgb.png?ref_type=heads" width="88px">
+        <img src="https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/-/raw/publish-tud-open-textbook/book/images/TUDelft_logo_rgb.png?ref_type=heads" width="88px">
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
           <img alt="Creative Commons License" style="border-width:; width:80px; height:auto; padding-top:0px" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
         </a>
