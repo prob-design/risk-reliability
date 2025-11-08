@@ -12,14 +12,10 @@ launch_buttons:
 only_build_toc_files: true
 
 repository:
-  url: https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/
-  branch: main/book # for edit button; need to check branch permissions non-TUD user access
+  url: https://github.com/prob-design/risk-reliability
+  branch: main
 
 html:
-# X START DRAFT # temporarily enable Hypothesis for published book until Library finishes
-  comments:
-    hypothesis: true
-# X END DRAFT
   use_edit_page_button: false
   use_repository_button: true
   extra_footer: |
