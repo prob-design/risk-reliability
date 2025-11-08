@@ -2,18 +2,11 @@
 
 This book was developed for and used in the master's program of the faculty of Civil and Environmental Engineering at Delft University of Technology in the Netherlands. Although the concepts are relevant for a wider audience outside the faculty, the generic reference "for Engineers" in the title refers to the diverse areas of emphasis evolving within the field historically referred to as "civil engineering." For example, our MSc programs in Environmental Engineerinng and Applied Earth Sciences.
 
-There are three versions of this book available online:
-1. A version bublished via the [Open Interactive Textbooks platform](https://textbooks.open.tudelft.nl/textbooks/catalog/category/interactive) of the TU Delft Library, built from the branch `publish-tud-open-textbook`: [interactivetextbooks.tudelft.nl/risk-reliability](https://interactivetextbooks.tudelft.nl/risk-reliability/intro.html)
-2. An intermediate version shared with students, built from the branch `publish`: [interactivetextbooks.citg.tudelft.nl/risk-reliability](https://interactivetextbooks.citg.tudelft.nl/risk-reliability/intro.html)
-3. A draft version for review by teachers (password protected), built from the branch `main`: [interactivetextbooks.citg.tudelft.nl/risk-reliability-draft](https://interactivetextbooks.citg.tudelft.nl/risk-reliability-draft/intro.html)
-
-In addition, chapters of this book may be used in other courses and modules, either by direct linking, or including subsets of the book in another online textbooks (e.g., several chapters of this book are included in the [MUDE book](https://mude.citg.tudelft.nl/book/intro.html)).
-
 This book is released under a CC-BY 4.0 license, and can be cited as:
 
 > Lanzafame, R. (2024) _Risk and Reliability for Engineers_, TU Delft Open. https://doi.org/10.59490/tb.89.
 
-As new material is added to the book, it will appear online first in sites 2 and 3, listed above. A final editing and copyright check takes place between the sharing of materials with students (site 2) and via the TU Delft Open website (site 1). For additional information visit the [Credits and License page](https://interactivetextbooks.tudelft.nl/risk-reliability/credits.html) in the book (or view the [source code](https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/-/blob/main/book/credits.md?ref_type=heads)).
+The official published version of this book is available via the [TU Delft OPEN Interactive Textbooks platform](https://textbooks.open.tudelft.nl/textbooks/catalog/category/interactive) at [interactivetextbooks.tudelft.nl/risk-reliability](https://interactivetextbooks.tudelft.nl/risk-reliability/intro.html). However, additional preliminary material may also be available at [prob-design.github.io/risk-reliability](https://prob-design.github.io/risk-reliability/main/intro.html).
 
 ## Development History
 
@@ -32,11 +25,11 @@ The long-term goals for this book are:
 
 ## Building and Editing the Book
 
-This book is created using open source tools: it is a Jupyter Book that is written using Markdown, Jupyter notebooks and Python files to generate some figures. The files are stored on a [public GitLab repository of TU Delft](https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/). The published versions of this book are compiled from special branches (see above).
+This book is created using open source tools from [TeachBooks](https://teachbooks.io/): it is a Jupyter Book that is written using Markdown, Jupyter notebooks and Python files to generate some figures. Contents of this book are written in the GitHub repository in the GitHub repository [`prob-design/risk-reliability`](https://github.com/prob-design/risk-reliability). The published version of this book is generated from a special branch, `publish-tud-open-textbook`, in a [public GitLab repository of TU Delft](https://gitlab.tudelft.nl/interactivetextbooks-citg/risk-and-reliability/). In short: edits are made in the Git*Hub* repository; the Git*Lab* repository is intented only to mirror and publish the book. 
 
 ### Setup
 
-This book is built locally using a standard Python 3.11 virtual environment, created in directory `./.venv` from `requirements.txt`. A number of custom packages are used to facilitate interactive code pages, and other aspects related to the book build (see [TeachBooks website](https://interactivetextbooks.citg.tudelft.nl/) for more information). For example, a standard suite of packages is defined in [this repo](https://gitlab.tudelft.nl/interactivetextbooks-citg/extensions/tud-citg-jb-stack), including the Jupyter stack as well as common numerical libraries (e.g., numpy, scipy).
+This book is built locally using a standard Python 3.11 virtual environment, created in directory `./.venv` from `requirements.txt`. A number of custom packages are used to facilitate interactive code pages, and other aspects related to the book build.
 
 To activate and create the environment:
 
