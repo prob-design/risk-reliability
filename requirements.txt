@@ -8,6 +8,7 @@ seaborn
 # but not included here to prevent build issues on the server.
 # In Feb 2024 it installed fine with Python 3.11 venv and pip
 
+sphinx-apa-references
 jupyterbook_patches
 download-link-replacer
 git+https://github.com/TeachBooks/Sphinx-Thebe

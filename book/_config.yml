@@ -38,6 +38,6 @@ sphinx:
     - sphinx.ext.imgconverter
     - download_link_replacer
     - jupyterbook_patches
-
+    - sphinx_apa_references
 bibtex_bibfiles: 
   - _bibliography/references.bib
