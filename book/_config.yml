@@ -34,10 +34,9 @@ sphinx:
     thebe_config:
       use_thebe_lite: true
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
+    bibtex_bibfiles: "_bibliography/references.bib"
   extra_extensions:
     - sphinx.ext.imgconverter
     - download_link_replacer
     - jupyterbook_patches
     - sphinx_apa_references
-bibtex_bibfiles: 
-  - _bibliography/references.bib
